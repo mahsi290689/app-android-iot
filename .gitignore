@@ -1,0 +1,22 @@
+# Build outputs
+/build/
+/android/.gradle/
+/android/app/build/
+/ios/Flutter/Flutter.framework/
+/ios/Runner.xcworkspace/
+/ios/Pods/
+/ios/Pods.xcodeproj/
+*.lock
+pubspec.lock
+
+# Dart/Pub
+.dart_tool/
+.packages
+
+# IDE settings
+.idea/
+/.vscode/
+/*.iml
+
+# Generated files
+.generated/
